@@ -1,6 +1,6 @@
 {
     "name": "pi-verbosity-control",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "Per-model OpenAI verbosity control for Pi with optional inline footer display",
     "keywords": [
         "pi-package",
