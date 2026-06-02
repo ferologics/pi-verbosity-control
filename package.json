@@ -24,6 +24,11 @@
             "index.ts"
         ]
     },
+    "peerDependencies": {
+        "@earendil-works/pi-ai": "*",
+        "@earendil-works/pi-coding-agent": "*",
+        "@earendil-works/pi-tui": "*"
+    },
     "piRelease": {
         "repo": "ferologics/pi-verbosity-control",
         "branch": "main",
